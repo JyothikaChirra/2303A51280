@@ -1,0 +1,8 @@
+node_modules/
+.env
+**/.env
+logging-middleware/node_modules/
+vehicle-scheduler-be/node_modules/
+
+logging-middleware/.env
+vehicle-scheduler-be/.env
